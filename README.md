@@ -16,11 +16,11 @@ This layout has a total of 33x17 tiles, of which 324 tiles are thought to be for
 
 ### 8qvtyq3j
 **Shape**  
-Big square kitchen, L shaped eating/research
+Big square kitchen, L shaped eating/research\
 ![Screenshot of the seed](./img/8qvtyq3j.png)
 
 **Cards**  
-In total rather meh cards.
+In total rather meh cards.\
 Franchise options: Supplier error, Preparation time
 
 ---
@@ -28,7 +28,7 @@ Franchise options: Supplier error, Preparation time
 ### bcd27
 
 **Shape**
-Rectangular serving, rectangular kitchen, L corridor
+Rectangular serving, rectangular kitchen, L corridor\
 ![Screenshot of the seed](./img/bcd27.png)
 
 **Theme**  
